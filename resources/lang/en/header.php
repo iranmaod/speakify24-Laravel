@@ -1,0 +1,23 @@
+<?php
+return [
+    'home' => 'Home',
+    'thats_how' => 'Thats how it works',
+    'ourplatform' => 'Our Platform',
+    'ourmethod' => 'Our Method',
+    'ourteachers' => 'Our Teachers',
+    'ourcertificates' => 'Our Certificates',
+    'languages' => 'Languages',
+    'english' => 'English',
+    'spanish' => 'Spanish',
+    'german' => 'German',
+    'italian' => 'Italian',
+    'ourclients' => 'Our Clients',
+    'students' => 'Students',
+    'private_clients' => 'Private Clients',
+    'companies' => 'Companies',
+    'prices' => 'Prices',
+    'signin' => 'Sign In',
+    'signup' => 'Sign Up',
+    'as_student' => 'As Student',
+    'as_teacher' => 'As Teacher',
+];

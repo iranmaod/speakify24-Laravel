@@ -1,0 +1,5 @@
+[2023-01-11 07:40:46] development.ERROR: Trying to get property 'id' of non-object {"exception":"[object] (ErrorException(code: 0): Trying to get property 'id' of non-object at C:\\laragon\\www\\speakify_app\\public\\mail.php:1012)
+[stacktrace]
+#0 C:\\laragon\\www\\speakify_app\\public\\mail.php(1012): Illuminate\\Foundation\\Bootstrap\\HandleExceptions->handleError(8, 'Trying to get p...', 'C:\\\\laragon\\\\www\\\\...', 1012, Array)
+#1 {main}
+"} 
